@@ -33,7 +33,7 @@ https://dev-portal.onshape.com/
     ONSHAPE_ACCESS_KEY  ONSHAPE_SECRET_KEY
 
 # Create a ".env" document in the project home folder and configure it with environment variables and the link of the Onshape doc you want to display
-    $ toucn .env
+    $ touch .env
 
         ONSHAPE_ACCESS_KEY=
         ONSHAPE_SECRET_KEY=
