@@ -1,0 +1,52 @@
+# mac os
+.DS_Store
+.Trashes
+.Spotlight-V100
+
+# node
+.npm
+.node_repl_history
+npm-debug.log
+node_modules
+
+# python
+__pycache__
+*.pyc
+*.egg
+*.egg-info
+.eggs
+env
+.env 
+
+# api keys
+node/config/apikey.js
+python/creds.json
+
+
+# model 3d
+.stl
+
+# React
+# See https://help.github.com/articles/ignoring-files/ for more about ignoring files.
+
+# dependencies
+/node_modules
+/.pnp
+.pnp.js
+
+# testing
+/coverage
+
+# production
+/build
+
+# misc
+.DS_Store
+.env.local
+.env.development.local
+.env.test.local
+.env.production.local
+
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
