@@ -57,7 +57,13 @@ Example
 
 http://localhost:8000/stl
 
+![Test Image 1](./img-readme/foto_12.png)
+
+![Test Image 1](./img-readme/foto_11.png)
+
 Open a new terminal
+![Test Image 1](./img-readme/foto_15.png)
+
 
     $ cd ..
     $ cd onshape-client
@@ -68,5 +74,4 @@ Open a new terminal
 
 http://localhost:3000/
 
-
- 
+![Test Image 1](./img-readme/foto_16.png)
