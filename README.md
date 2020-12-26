@@ -69,19 +69,4 @@ Open a new terminal
 http://localhost:3000/
 
 
-
-AWS Ubuntu 20.04.1 LTS
-
-$ sudo apt update
-
-$ git clone https://github.com/Fda641/onshape_apiRest_Server_and_Client_viewer.git
-
-$ sudo apt-get install nodejs
-
-$ node -v
-
-$ sudo apt install npm
-
-$ npm -v
-
  

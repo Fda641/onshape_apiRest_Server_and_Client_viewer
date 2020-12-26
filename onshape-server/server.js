@@ -8,7 +8,7 @@ const path = require("path");
 // file txt
 const fs = require('fs');
 let myFile = {
-  Path: "./storage-file-stl/", // Path -> folder file .stl,
+  Path: "../storage-file-stl/", // Path -> folder file .stl,
   Filename: "data",
   extension: ".stl",
 };

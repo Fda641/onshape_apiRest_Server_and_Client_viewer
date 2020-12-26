@@ -52,8 +52,9 @@ const Viewer = () => {
     const file = fileList[0];
 
     ////////
+    //
     // path file ??????
-    ///="./onshape-server/example/data.stl";
+    ///="../storage-file-stl/data.stl";
     //./onshape-server/example/data.stl
     /////
 
